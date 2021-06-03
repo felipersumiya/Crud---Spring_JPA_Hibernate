@@ -24,6 +24,10 @@ public class OrderItemPK implements Serializable {
 	private Product product;
 	
 	
+	public OrderItemPK() {
+		
+	}
+	
 	@Override
 	public int hashCode() {
 		final int prime = 31;
