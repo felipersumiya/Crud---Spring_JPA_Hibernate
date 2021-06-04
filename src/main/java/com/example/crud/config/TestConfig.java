@@ -95,6 +95,8 @@ public class TestConfig implements CommandLineRunner {
 		
 		orderRepository.save(o1);
 		
+		//Apenas um teste básico.
+		
 		
 		
 	}
